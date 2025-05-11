@@ -3,6 +3,13 @@
 An advanced, responsive platform for predicting, visualizing, and managing natural disasters in real-time. Built using **Next.js**, **TypeScript**, and **Tailwind CSS**, this application features interactive modules like maps, emergency response, chatbot assistance, and predictive analysis.
 
 ---
+https://predict-jeevansetu.vercel.app/
+![image](https://github.com/user-attachments/assets/164f058d-edd4-4dbd-b5bf-72f49a249d25)
+![image](https://github.com/user-attachments/assets/7cdeab4b-cc99-4375-853f-a429552e7667)
+![image](https://github.com/user-attachments/assets/742b2b20-27c1-42f9-a6bf-281d241d58c9)
+
+
+
 
 ## 🔥 Key Modules
 
